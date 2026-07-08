@@ -65,17 +65,10 @@
 ## 🌟 Current Focus
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence-4B8BBE?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/🌐-Full--Stack-00C853?style=for-the-badge"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/🔌-Embedded%20Systems-F57C00?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/🚀-Personal%20AI%20Project-E91E63?style=for-the-badge"/>
-
 </p>
 ## 🐍 green-square-muncher
 
