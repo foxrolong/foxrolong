@@ -26,7 +26,7 @@
       </td>
       <td valign="top">
         <a href="https://github.com/foxrolong">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&v2&theme=radical&hide=c,c%2B%2B,dart,cmake&hide=contribs,prs,issues"/>
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&v2&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
         </a>
       </td>
     </tr>
