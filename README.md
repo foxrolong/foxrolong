@@ -17,9 +17,9 @@
 </div>
 ---
 
-<img align="left" width="250" src="./assets/long2.png"/>
+<img align="left" width="250" src="long2.png"/>
 
-<img align="right" width="250" src="./assets/long1.jpg"/>
+<img align="right" width="250" src="long1.jpg"/>
 
 ## 🚀 About Me
 
