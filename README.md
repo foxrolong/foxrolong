@@ -15,6 +15,7 @@
 </div>
 ###
 <img align="right" height="220" src="long1.png"/>
+<img align="left" height="220" src="long2.png"/>
 ###
 
 ### What I'm up to
