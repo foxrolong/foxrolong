@@ -16,6 +16,22 @@
 
 </div>
 
+<br clear="both"/>
+<div align="left">
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/foxrolong"> </a>&nbsp;
+          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v3"/>
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/foxrolong">
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&v2&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
+        </a>
+      </td>
+    </tr>
+</div>
+
 <table>
 <tr>
 <td width="25%">
@@ -45,23 +61,6 @@
 
 </tr>
 </table>
-
-<br clear="both"/>
-<div align="left">
-  <h2> 📊 GitHub Stats </h2>
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/foxrolong"> </a>&nbsp;
-          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v3"/>
-        </a>
-      </td>
-      <td valign="top">
-        <a href="https://github.com/foxrolong">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&v2&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
-        </a>
-      </td>
-    </tr>
-</div>
 
 ## 🌟 Current Focus
 
