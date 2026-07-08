@@ -62,14 +62,12 @@
 </tr>
 </table>
 
-## 🌟 Current Focus
+## 🌟 Current Focus 🌟
 
- 🧠 Artificial Intelligence
- 🌐 Full-Stack Web Development
- 🔌 Embedded Systems
- 🚀 Personal AI Assistant Project
-
----
+ 🧠 Artificial Intelligence <br>
+ 🌐 Full-Stack Web Development <br>
+ 🔌 Embedded Systems <br>
+ 🚀 Personal AI Assistant Project <br>
 
 ## 🐍 green-square-muncher
 
