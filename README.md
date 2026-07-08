@@ -31,8 +31,7 @@
       </td>
     </tr>
 </div>
-<div align="left"><h1>Tech Stack</h1></div>
-
+##
 <table>
   <tr>
     <td width="25%">
