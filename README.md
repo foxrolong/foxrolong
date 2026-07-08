@@ -17,29 +17,14 @@
 </div>
 
 <br clear="both"/>
+
 <div align="center">
 
-<table>
-<tr>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs,issues"/>
 
-<td>
-<a href="https://github.com/foxrolong">
-<img height="165"
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs,issues"/>
-</a>
-</td>
-
-<td>
-<a href="https://github.com/foxrolong">
-<img height="165"
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
-</a>
-</td>
-
-</tr>
-</table>
-
-</div>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
+</p>
 
 <table>
   <tr>
