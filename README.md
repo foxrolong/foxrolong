@@ -17,7 +17,7 @@
 </div>
 
 <br clear="both"/>
-<div align="left">
+<div align="center">
     <tr>
       <td valign="top">
         <a href="https://github.com/foxrolong"> </a>&nbsp;
