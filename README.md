@@ -31,8 +31,8 @@
       </td>
     </tr>
 </div>
-##
-<table>
+
+##<table>
   <tr>
     <td width="25%">
       <img src="long2.png" width="220">
