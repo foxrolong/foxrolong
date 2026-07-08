@@ -1,13 +1,11 @@
 <div align="center">
 
-# Hi 👋 I'm FOXRO (LONG)
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=650&repeat=true&lines=Welcome+to+My+GitHub+Profile!;Let's+Build+Something+Awesome!" />
-</a>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&repeat=true&lines=Hi,+I'm+FOXRO-LONG;Welcome+to+My+Github+Profile!" alt="Typing SVG" />
+  </a>
+</div>
 <br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=999999&color=00BFFF&center=true&vCenter=true&width=900&repeat=false&lines=AI+%7C+Full-Stack+%7C+Embedded+Developer"/>
 
 <br>
