@@ -49,17 +49,16 @@
 <br clear="both"/>
 
 
-
 ## 🌟 Current Focus
 
-- 🧠 Artificial Intelligence
-- 🌐 Full-Stack Web Development
-- 🔌 Embedded Systems (ESP32 & ESP-IDF)
-- 🚀 Personal AI Assistant Project
+ 🧠 Artificial Intelligence
+ 🌐 Full-Stack Web Development
+ 🔌 Embedded Systems
+ 🚀 Personal AI Assistant Project
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 green-square-muncher
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/foxrolong/foxrolong/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
@@ -85,7 +84,10 @@
 
 <a href="https://github.com/foxrolong">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+<a href="https://www.facebook.com/LONG.FOXRO">
+<img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook"/>
+<a href="https://github.com/foxrolong">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
