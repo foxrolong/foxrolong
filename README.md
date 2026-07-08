@@ -39,7 +39,7 @@
 </td>
 
 <td align="center">
-<h1>🚀 About Me </h1> <br>
+<h3>🚀 About Me </h3> <br>
 🎓 <b>Information Technology Student</b><br>
 <sub>Sinh viên Công nghệ Thông tin</sub>
 
@@ -62,7 +62,7 @@
 </tr>
 </table>
 
-## 🌟 Current Focus
+## <h1>🌟 Current Focus 🌟</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence-4B8BBE?style=for-the-badge"/>
