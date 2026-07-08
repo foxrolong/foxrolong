@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&repeat=true&lines=Hi,+I'm+FOXRO LOMG;Welcome+to+My+Github+Profile!" alt="Typing SVG" />
+  </a>
+</div>
 
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxNnhpaGR3YzlrdWJtMWppODR6ZjNwaXkyNWN1bzFkc3d4MGwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67ThRZlYBvibtdF9JH/giphy.gif"  />
 
