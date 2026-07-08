@@ -63,11 +63,11 @@
   <img src="https://img.shields.io/badge/🚀-Personal%20AI%20Project-E91E63?style=for-the-badge"/>
 </p>
 
-<h1>🐍 green-square-muncher</h1>
+<h1>🐍 green-square-muncher 🐍</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/foxrolong/foxrolong/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
-## 📫 Connect with Me
+<H1>🤝 Connect with Me 🤝</H1>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/LONG.FOXRO) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/foxrolong) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Foxrohihi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:longjakiu1@gmail.com) 
 
