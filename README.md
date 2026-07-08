@@ -6,14 +6,11 @@
   </a>
 </div>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=999999&color=00BFFF&center=true&vCenter=true&width=900&repeat=false&lines=AI+%7C+Full-Stack+%7C+Embedded+Developer"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=999999&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=L%E1%BA%ADp+tr%C3%ACnh+AI+%7C+Full-Stack+%7C+H%E1%BB%87+th%E1%BB%91ng+nh%C3%BAng"/>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=AI+%26+ML+Engineer+building+deep+learning+systems+for+vision%2C+language+and+real-world+data" alt="Typing SVG" />
+  </a>
 </div>
-
 ---
 
 <img align="left" width="250" src="./assets/long2.png"/>
