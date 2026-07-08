@@ -16,18 +16,34 @@
 
 </div>
 ---
+<table>
+<tr>
+<td width="25%">
+<img src="long2.png" width="220">
+</td>
 
-<img align="left" width="250" src="long2.png"/>
-
-<img align="right" width="250" src="long1.jpg"/>
+<td align="center">
 
 ## 🚀 About Me
 
- 🎓 Information Technology Student
- 🤖 Passionate about Artificial Intelligence
- 💻 Building Full-Stack Applications
- ⚡ Developing Embedded Systems
- 🌱 Always Learning & Building
+🎓 Information Technology Student
+
+🤖 Passionate about Artificial Intelligence
+
+💻 Building Full-Stack Applications
+
+⚡ Developing Embedded Systems
+
+🌱 Always Learning & Building
+
+</td>
+
+<td width="25%">
+<img src="long1.jpg" width="220">
+</td>
+
+</tr>
+</table>
 
 <br clear="both"/>
 
