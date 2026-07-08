@@ -17,20 +17,25 @@
 </div>
 
 <br clear="both"/>
-<div align="center">
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/foxrolong">
-          <img height="180"src="https://github-readme-stats.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&count_private=true"/>
-        </a>
-      </td>
-      <td valign="top">
-        <a href="https://github.com/foxrolong">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&v2&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
-        </a>
-      </td>
-    </tr>
-</div><br>
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://github.com/foxrolong">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&count_private=true"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/foxrolong">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxrolong&layout=compact&theme=radical"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 <table>
   <tr>
