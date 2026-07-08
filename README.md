@@ -39,26 +39,20 @@
 </td>
 
 <td align="center">
-<h3>🚀 About Me </h3> <br>
 🎓 <b>Information Technology Student</b><br>
 <sub>Sinh viên Công nghệ Thông tin</sub>
-
 🤖 <b>Passionate about Artificial Intelligence</b><br>
 <sub>Đam mê Trí tuệ nhân tạo</sub>
-
 💻 <b>Building Full-Stack Applications</b><br>
 <sub>Xây dựng các ứng dụng Full-Stack</sub>
-
 ⚡ <b>Developing Embedded Systems</b><br>
 <sub>Phát triển hệ thống nhúng</sub>
-
 🌱 <b>Always Learning & Building</b><br>
 <sub>Không ngừng học hỏi và sáng tạo</sub>
 </td>
 <td width="25%">
 <img src="long1.jpg" width="220">
 </td>
-
 </tr>
 </table>
 
