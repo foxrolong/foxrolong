@@ -17,10 +17,20 @@
 </div>
 
 <br clear="both"/>
-
-[![My Github stats](https://github-readme-stats-fast.vercel.app/api?username=foxrolong&show_icons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/34306/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxrolong&layout=compact&theme=radical)](https://github.com/foxrolong)
-
+<div align="center">
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/foxrolong"> </a>&nbsp;
+          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v3"/>
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/foxrolong">
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&v2&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
+        </a>
+      </td>
+    </tr>
+</div><br>
 
 <table>
   <tr>
