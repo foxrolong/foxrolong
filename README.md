@@ -4,6 +4,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=AI+%26+ML+Engineer+building+deep+learning+systems+for+vision%2C+language+and+real-world+data" alt="Typing SVG" />
+  </a>
+</div>
+
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxNnhpaGR3YzlrdWJtMWppODR6ZjNwaXkyNWN1bzFkc3d4MGwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67ThRZlYBvibtdF9JH/giphy.gif"  />
 
 ###
