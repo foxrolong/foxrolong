@@ -10,7 +10,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=999999&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=L%E1%BA%ADp+tr%C3%ACnh+AI+%7C+Full-Stack+%7C+H%E1%BB%87+th%E1%BB%91ng+nh%C3%BAng" />
+  <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=999999&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=L%E1%BA%ADp+tr%C3%ACnh+AI+%7C+Full-Stack+%7C+H%E1%BB%87+th%E1%BB%91ng+nh%C3%BAng](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o4M2NteDZzdDBzdGZ3dmR4c2Y0OWRrbHR4YzV6enk0MWoxbmRpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ME9RuiUNLoURTXikaf/giphy.gif)" />
 
 </div>
 
