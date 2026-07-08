@@ -21,7 +21,7 @@
 <div align="center">
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs,issues"/>
+  <img width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs,issues"/>
 
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
 </p>
