@@ -70,7 +70,7 @@
 <img src="https://img.shields.io/badge/🔌-Embedded%20Systems-F57C00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🚀-Personal%20AI%20Project-E91E63?style=for-the-badge"/>
 </p>
-## 🐍 green-square-muncher
+## <h1>🐍 green-square-muncher</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/foxrolong/foxrolong/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
