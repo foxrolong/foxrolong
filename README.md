@@ -41,17 +41,13 @@
 <td align="center">
 
 🎓 <b>Information Technology Student</b><br>
-<sub><i>Sinh viên Công nghệ Thông tin</i></sub><br><br>
-
+<sub><i>Sinh viên Công nghệ Thông tin</i></sub><br>
 🤖 <b>Passionate about Artificial Intelligence</b><br>
-<sub><i>Đam mê Trí tuệ nhân tạo</i></sub><br><br>
-
+<sub><i>Đam mê Trí tuệ nhân tạo</i></sub><br>
 💻 <b>Building Full-Stack Applications</b><br>
-<sub><i>Xây dựng các ứng dụng Full-Stack</i></sub><br><br>
-
+<sub><i>Xây dựng các ứng dụng Full-Stack</i></sub><br>
 ⚡ <b>Developing Embedded Systems</b><br>
-<sub><i>Phát triển hệ thống nhúng</i></sub><br><br>
-
+<sub><i>Phát triển hệ thống nhúng</i></sub><br>
 🌱 <b>Always Learning & Building</b><br>
 <sub><i>Không ngừng học hỏi và sáng tạo</i></sub>
 
