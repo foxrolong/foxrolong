@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=999999&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=L%E1%BA%ADp+tr%C3%ACnh+AI+%7C+Full-Stack+%7C+H%E1%BB%87+th%E1%BB%91ng+nh%C3%BAng" />
 
 </div>
----
+
 <table>
 <tr>
 <td width="25%">
@@ -48,7 +48,7 @@
 
 <br clear="both"/>
 
----
+
 
 ## 🌟 Current Focus
 
