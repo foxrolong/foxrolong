@@ -17,25 +17,8 @@
 </div>
 
 <br clear="both"/>
-<table align="center">
-<tr>
 
-<td align="center">
-<a href="https://github.com/foxrolong">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&count_private=true"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/foxrolong">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxrolong&layout=compact&theme=radical"/>
-</a>
-</td>
-
-</tr>
-</table>
+[![My Github stats](https://github-readme-stats-fast.vercel.app/api?username=foxrolong&show_icons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/34306/github-readme-stats)
 
 <table>
   <tr>
