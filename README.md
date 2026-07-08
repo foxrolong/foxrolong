@@ -23,6 +23,9 @@
 
 ### Contributed by me
 
+
+
+<div>
 <div align="left">
   <h2> 🐍 FOXRO LONG </h2>
   <img src="https://raw.githubusercontent.com/foxrolong/foxrolong/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -42,4 +45,5 @@
         </a>
       </td>
     </tr>
+</div>
 </div>
