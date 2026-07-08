@@ -33,42 +33,37 @@
 </div>
 
 <table>
-<tr>
-<td width="25%">
-<img src="long2.png" width="220">
-</td>
-
-<td align="center">
-
-🎓 <b>Information Technology Student</b><br>
-<sub><i>( Sinh viên Công nghệ Thông tin )</i></sub><br>
-🤖 <b>Passionate about Artificial Intelligence</b><br>
-<sub><i>( Đam mê Trí tuệ nhân tạo )</i></sub><br>
-💻 <b>Building Full-Stack Applications</b><br>
-<sub><i>( Xây dựng các ứng dụng Full-Stack )</i></sub><br>
-⚡ <b>Developing Embedded Systems</b><br>
-<sub><i>( Phát triển hệ thống nhúng )</i></sub><br>
-🌱 <b>Always Learning & Building</b><br>
-<sub><i>( Không ngừng học hỏi và sáng tạo )</i></sub>
-
-</td>
-
-<td width="25%">
-<img src="long1.jpg" width="220">
-</td>
-</tr>
+  <tr>
+    <td width="25%">
+      <img src="long2.png" width="220">
+    </td>
+    <td align="center">
+      🎓 <b>Information Technology Student</b><br>
+      <sub><i>( Sinh viên Công nghệ Thông tin )</i></sub><br>
+      🤖 <b>Passionate about Artificial Intelligence</b><br>
+      <sub><i>( Đam mê Trí tuệ nhân tạo )</i></sub><br>
+      💻 <b>Building Full-Stack Applications</b><br>
+      <sub><i>( Xây dựng các ứng dụng Full-Stack )</i></sub><br>
+      ⚡ <b>Developing Embedded Systems</b><br>
+      <sub><i>( Phát triển hệ thống nhúng )</i></sub><br>
+      🌱 <b>Always Learning & Building</b><br>
+      <sub><i>( Không ngừng học hỏi và sáng tạo )</i></sub>
+    </td>
+    <td width="25%">
+      <img src="long1.jpg" width="220">
+    </td>
+  </tr>
 </table>
 
-## <h1>🌟 Current Focus 🌟</h1>
-
+<h1>🌟 Current Focus 🌟</h1>
 <p align="center">
-<img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌐-Full--Stack-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔌-Embedded%20Systems-F57C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀-Personal%20AI%20Project-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐-Full--Stack-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔌-Embedded%20Systems-F57C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀-Personal%20AI%20Project-E91E63?style=for-the-badge"/>
 </p>
-## <h1>🐍 green-square-muncher</h1>
 
+<h1>🐍 green-square-muncher</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/foxrolong/foxrolong/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
