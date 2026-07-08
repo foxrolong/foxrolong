@@ -20,8 +20,7 @@
 <div align="center">
     <tr>
       <td valign="top">
-        <a href="https://github.com/foxrolong"> </a>&nbsp;
-          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v3"/>
+          [![My Github stats](https://github-readme-stats-fast.vercel.app/api?username=foxolong&show_icons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/34306/github-readme-stats)
         </a>
       </td>
       <td valign="top">
