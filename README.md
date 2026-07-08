@@ -23,11 +23,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Information Technology Student
-- 🤖 Passionate about Artificial Intelligence
-- 💻 Building Full-Stack Applications
-- ⚡ Developing Embedded Systems with ESP32
-- 🌱 Always Learning & Building
+ 🎓 Information Technology Student
+ 🤖 Passionate about Artificial Intelligence
+ 💻 Building Full-Stack Applications
+ ⚡ Developing Embedded Systems
+ 🌱 Always Learning & Building
 
 <br clear="both"/>
 
