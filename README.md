@@ -23,7 +23,7 @@
 </td>
 
 <td align="center">
-## 🚀 About Me
+## 🚀 About Me <br>
 🎓 <b>Information Technology Student</b><br>
 <sub>Sinh viên Công nghệ Thông tin</sub>
 
