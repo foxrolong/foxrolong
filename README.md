@@ -6,27 +6,21 @@
   </a>
 </div>
 <br>
+
 <div align="center">
-
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=999999&color=00BFFF&center=true&vCenter=true&width=900&repeat=false&lines=AI+%7C+Full-Stack+%7C+Embedded+Developer" />
-
   <br>
-
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=999999&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=L%E1%BA%ADp+tr%C3%ACnh+AI+%7C+Full-Stack+%7C+H%E1%BB%87+th%E1%BB%91ng+nh%C3%BAng" />
-
 </div>
 
 <br clear="both"/>
-
 <div align="center">
-
-<p align="center">
-  <img height="165"
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs,issues&title_font_size=18&text_bold=false"/>
-
-  <img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
-</p>
-
+  <p align="center">
+    <img height="165"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxrolong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs,issues&title_font_size=18&text_bold=false"/>
+    <img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxrolong&layout=compact&langs_count=8&theme=radical&hide=c,c%2B%2B,dart,cmake"/>
+  </p>
+  
 <table>
   <tr>
     <td width="25%">
